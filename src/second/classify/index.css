@@ -1,0 +1,23 @@
+input{
+  background: #F5F5F5;
+  height: 26px;
+  width: 200px;
+  border-radius: 10px;
+  margin: 10px 10px 10px 10px;
+}
+.classify-top{
+  width: 100%;
+  height: 40px;
+  background: #fff;
+  overflow: hidden;
+  border: 1px solid #ccc;
+}
+.classify-top span:first-child{
+  float: left;
+  margin: 10px 10px 10px 10px;
+}
+.classify-top span:last-child{
+  float: right;
+  font-size: 20px;
+  margin: 10px 10px 10px 10px;
+}

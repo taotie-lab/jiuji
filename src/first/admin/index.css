@@ -1,0 +1,36 @@
+body,html, .admin{
+  height: 100%;
+  width: 100%
+}
+.admin-main{
+  height: 100%;
+  width: 100%
+}
+.admin-bot{
+  position: fixed;
+  height: 50px;
+  width: 100%;
+  bottom: 0;
+}
+.admin-icon{
+  width: 22px;
+  height: 22px;
+}
+
+.icon4{
+  background:url(https://gw.alipayobjects.com/zos/rmsportal/ekLecvKBnRazVLXbWOnE.svg) center center /  21px 21px no-repeat
+}
+.icon5{
+  background:url(https://zos.alipayobjects.com/rmsportal/psUFoAMjkCcjqtUCNPxB.svg) center center /  21px 21px no-repeat
+}
+.icon6{
+  background: url(https://zos.alipayobjects.com/rmsportal/IIRLrXXrFAhXVdhMWgUI.svg) center center /  21px 21px no-repeat
+}
+img{
+  width: 22px;
+  height: 22px;
+}
+.imgss{
+  width: 22px;
+  height: 22px;
+}

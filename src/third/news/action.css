@@ -1,0 +1,31 @@
+.one{
+  width: 327px;
+  height: 270px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin-top: 10px;
+  color: rgb(199, 180, 180);
+}
+.one img{
+  width: 327px;
+  height: 150px;
+}
+.txt{
+  overflow: hidden;
+}
+.txt p{
+  float: left;
+  margin-left: 10px;
+}
+.txt dd{
+  float: left;
+  margin-left: 10px;
+}
+.txt dd:last-child{
+  float: left;
+  margin-left: 10px;
+}
+.txt span:last-child{
+  float: right;
+  margin-right: 10px;
+}
